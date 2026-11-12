@@ -15,6 +15,8 @@
 | Day 07 |  Sets      | Done |
 | Day 08 |Dictionaries| Done |
 | Day 09 |Conditionals| Done |
+| Day 10 |  Loops     | Done |
+| Day 11 | Functions  | Done |
 
 
 
