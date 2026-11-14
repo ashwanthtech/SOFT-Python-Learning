@@ -17,6 +17,8 @@
 | Day 09 |Conditionals| Done |
 | Day 10 |  Loops     | Done |
 | Day 11 | Functions  | Done |
+| Day 12 | Modules    | Done |
+| Day 13 | ListComprehension| Done |
 
 
 
